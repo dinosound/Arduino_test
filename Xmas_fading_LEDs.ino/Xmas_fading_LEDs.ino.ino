@@ -1,4 +1,4 @@
-// Xmas tree smooth fading RGB LED
+// Xmas tree smooth fading RGB LEDs
 int red = 9;
 int blue = 10;
 int green = 11;
